@@ -32,7 +32,7 @@ cursor.execute(sql,string)
 row = cursor.fetchone()
 
 
-#add base 62 val;
+#add base 62 val
 
 x = row[0]
 
